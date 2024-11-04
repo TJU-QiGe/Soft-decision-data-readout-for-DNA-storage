@@ -36,6 +36,8 @@ For detailed information on coding procedures and sequencing data for yeast arti
         
         
         
+        
+        
 
 In addition, the program used for data assembly can be obtained from the following URL. In fact, any assembly software meeting the requirements can be used for sequencing read assembly. Other computer codes used in this work are available from the authors upon request.
 
@@ -50,7 +52,7 @@ RACON: https://github.com/isovic/racon
 ### Table 1. Plasmid sequence, watermark sequence, and sequencing data used in our study.
 
 
-<table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tr>
   <tr>
     <td style="font-weight: bold; text-align: left;">Files</td>
