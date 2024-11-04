@@ -30,6 +30,12 @@ In our work, to demonstrate the feasibility of the proposed method, the third-ge
 <h2 id="Note"><strong>Note</strong></h2>
 
 For detailed information on coding procedures and sequencing data for yeast artificial chromosomes, see the literature: Chen W, Han M, Zhou J, Ge Q, Wang P, Zhang X, et al. An artificial chromosome for data storage. Natl Sci Rev 2021;8:nwab086. https://doi.org/10.1093/nsr/nwab028
+        
+        
+        
+        
+        
+        
 
 In addition, the program used for data assembly can be obtained from the following URL. In fact, any assembly software meeting the requirements can be used for sequencing read assembly. Other computer codes used in this work are available from the authors upon request.
 
@@ -43,22 +49,6 @@ RACON: https://github.com/isovic/racon
 
 ### Table 1. Plasmid sequence, watermark sequence, and sequencing data used in our study.
 
-
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    page-break-inside: auto; /* 允许表格在分页时继续显示 */
-  }
-  tr {
-    page-break-inside: avoid; /* 避免在行中间分页 */
-    page-break-after: auto;
-  }
-  td {
-    border: 1px solid black; /* 边框 */
-    padding: 8px; /* 单元格填充 */
-  }
-</style>
 
 <table>
 <tr>
