@@ -29,7 +29,9 @@ In our work, to demonstrate the feasibility of the proposed method, the third-ge
 
 <h2 id="Note">Note</h2>
 
-For detailed information on coding procedures and sequencing data for yeast artificial chromosomes, see the literature: Chen W, Han M, Zhou J, Ge Q, Wang P, Zhang X, et al. An artificial chromosome for data storage. Natl Sci Rev 2021;8:nwab086. https://doi.org/10.1093/nsr/nwab028. In addition, the program used for data assembly can be obtained from the following URL. In fact, any assembly software meeting the requirements can be used for sequencing read assembly. Other computer codes used in this work are available from the authors upon request.
+For detailed information on coding procedures and sequencing data for yeast artificial chromosomes, see the literature: Chen W, Han M, Zhou J, Ge Q, Wang P, Zhang X, et al. An artificial chromosome for data storage. Natl Sci Rev 2021;8:nwab086. https://doi.org/10.1093/nsr/nwab028
+        
+        . In addition, the program used for data assembly can be obtained from the following URL. In fact, any assembly software meeting the requirements can be used for sequencing read assembly. Other computer codes used in this work are available from the authors upon request.
 
 Minimap2: https://github.com/lh3/minimap2
 
@@ -181,7 +183,7 @@ Output files:
 - `Plasmid_A_corrected_bits.txt`: Decoded bit stream. Run “step4-xx.sh”, you will obtain the bitstream file “Plasmid_A_corrected_bits.txt” containing the decoded results, which is saved in the folder “decoding_process/result/genome-A”.
 - `Dreams.txt`: Digital file recovered from the decoding result. In this example, the stored digital file is the poetry “Dreams”.
 
-#### After running the above four shell scripts, the stored digital file “Dreams.txt” will be recovered from the nanopore sequencing reads.
+#### After running the above four shell scripts, the stored digital file `Dreams.txt` will be recovered from the nanopore sequencing reads.
 
 <h2 id="Figures">Figures</h2>
 
