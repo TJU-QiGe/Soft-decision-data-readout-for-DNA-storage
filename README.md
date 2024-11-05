@@ -5,7 +5,7 @@
 
 [![Static Badge](https://img.shields.io/badge/github-TJU--QiGe-54af7d)](https://github.com/TJU-QiGe/Pragmatic-Soft-Decision-Data-Readout-of-Encoded-Large-DNA)
 
-<h1 id="TJU-QiGe">Pragmatic Soft-Decision Data Readout of Encoded Large DNA</h1>
+<h1 id="TJU-QiGe">Soft-decision-data-readout-for-DNA-storage</h1>
 
 ## **Table of Contents**
 
@@ -30,6 +30,16 @@ In our work, to demonstrate the feasibility of the proposed method, the third-ge
 <h2 id="Note"><strong>Note</strong></h2>
 
 For detailed information on coding procedures and sequencing data for yeast artificial chromosomes, see the literature: Chen W, Han M, Zhou J, Ge Q, Wang P, Zhang X, et al. An artificial chromosome for data storage. Natl Sci Rev 2021;8:nwab086. https://doi.org/10.1093/nsr/nwab028
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
